@@ -6,7 +6,7 @@ Experienced in C++ and C# development, I am actively pursuing exciting opportuni
 challenges. Ready to bring my 2+ years of expertise to the table, I thrive on problem-solving and delivering impactful solutions
 
 ## Education
-- B.Tech., Electronics Engineering | Walchand College of Engineering, Sangli, Maharashtra IN (_July 2022_)
+- Electronics Engineering | Walchand College of Engineering, Sangli, Maharashtra IN (_July 2022_)
 
 ## Work Experience
 **Intern @ NCR Corporation (_Jan 2022 - Jul 2022_)**

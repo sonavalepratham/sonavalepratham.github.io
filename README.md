@@ -1,9 +1,7 @@
 # Software Developer
 
-#### Technical Skills: C/C++ | C# | Linux | WPF | shell scripting
-#### Other Technical Skills: FIX Protocol | GDB | gRPC | Protobuf
+#### Technical Skills: C/C++ | C# | Linux | WPF | FIX Protocol | GDB | gRPC | Protobuf
 
-## About
 Experienced in C++ and C# development, I am actively pursuing exciting opportunities to apply my skills in solving intricate
 challenges. Ready to bring my 2+ years of expertise to the table, I thrive on problem-solving and delivering impactful solutions
 

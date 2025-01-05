@@ -3,22 +3,34 @@
 #### Technical Skills: C/C++ | C# | Linux | WPF | FIX Protocol | GDB | gRPC | Protobuf
 
 Experienced in C++ and C# development, I am actively pursuing exciting opportunities to apply my skills in solving intricate
-challenges. Ready to bring my 2+ years of expertise to the table, I thrive on problem-solving and delivering impactful solutions
+challenges. Ready to bring my 2.5+ years of expertise to the table, I thrive on problem-solving and delivering impactful solutions
 
 ## Education
 - Electronics Engineering | Walchand College of Engineering, Sangli, Maharashtra IN (_July 2022_)
 
 ## Work Experience
-**Intern @ NCR Corporation (_Jan 2022 - Jul 2022_)**
-- Added feature to digitally sign cheque transaction reports.
-- Created a utility to create cheque-related test files for the system.
 
 **Software Engineer @ FlexTrade Systems (_Aug 2022 - Present_)**
 - Worked with various asset types in trading and used design patterns while working on the L2 Dashboard.
 - Development of features and bug fixes in AlertClient (project to generate custom alerts on specific market or RMS events).
 - Exposed method from C++ to C# and vice versa through Interop for communication of C# modules with C++.
 - Used Google Protobuf to serialize and send messages with gRPC.
-- Used multithreading and socket programming.
+- Used multithreading and socket programming.\
+Tech Stack: **C++, C#, Linux, Docker**
+
+**Intern @ NCR Corporation (_Jan 2022 - Jul 2022_)**
+- Added feature to digitally sign cheque transaction reports.
+- Created a utility to create cheque-related test files for the system.\
+Tech Stack: **C#, Python**
+
+**Web Developer @ WCE ELESA (_Apr 2020 - Jul 2022_)**
+- As a team lead managed & guided to team of 4 developers.
+- Added whole backend to the system from scratch in Django & MySQL.
+- Developed features like updating user profiles dynamically & Participation rank dashboard.
+- Upgraded website backend from Plesk (Windows server control panel) to Linux server
+- Developed events registration system for club mega event with referral benefits to applicant. Successfully conducted events for 700+
+participants.\
+Tech Stack: **Python, Django, MySQL**
 
 ## Projects
 ### RayTracing Simulator
@@ -26,13 +38,14 @@ challenges. Ready to bring my 2+ years of expertise to the table, I thrive on pr
 
 Project to learn about how 3D objects are rendered on screen. rendered 3D objects with diffused & Phong surfaces. on top of
 This added features like shadows & reflections of surfaces. build this raw 3D renderer from scratch in C++ and store the output
-image in PPM.
+image in PPM. \
+Tech Stack: **C++**
 
 ### Syllabus Management System
 
 Web-based solution to assign subjects to teachers, manage course-wise CO-PO mapping, & generate reports of teachers who get approval of syllabus and successfully submit copies to the department.
-Completed this project for college in 3rd year.
-Tech Stack: Django, Python, HTML, CSS 
+Completed this project for college in 3rd year. \
+Tech Stack: **Django, Python, HTML, CSS**
 
 ## Certifications
 1. Google KickStart 2022 [Link](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/00000000008caba4)
